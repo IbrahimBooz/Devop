@@ -4,6 +4,7 @@ Html ve css teknolojileri kullanılarak responsive olarak tasarlanmıştır.
 
 # Site Ziyareti İçin;
 
+ https://devopib.netlify.app/
 
 # Devop Önizleme
 
