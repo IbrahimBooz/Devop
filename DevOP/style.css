@@ -507,8 +507,8 @@ textarea {
     header .menu:hover .menu-content {
         display: flex;
         position: absolute;
-        top: 35px;
-        right: 25px;
+        top: 30px;
+        right: 10px;
         background-color: #ccc;
         border-radius: 5px;
         padding: 10px;
