@@ -508,7 +508,7 @@ textarea {
         display: flex;
         position: absolute;
         top: 35px;
-        right: 35px;
+        right: 25px;
         background-color: #ccc;
         border-radius: 5px;
         padding: 10px;
