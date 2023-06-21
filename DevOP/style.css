@@ -507,8 +507,8 @@ textarea {
     header .menu:hover .menu-content {
         display: flex;
         position: absolute;
-        top: 30px;
-        right: 10px;
+        top: 5px;
+        right:0px;
         background-color: #ccc;
         border-radius: 5px;
         padding: 10px;
@@ -589,11 +589,11 @@ textarea {
         flex-direction: column;
     }
 
-    header .menu:hover .menu-content {
+    header .menu:hover .menu-content{
         display: flex;
         position: absolute;
-        top: 35px;
-        right: 35px;
+        top: 15px;
+        right: 5px;
         background-color: #ccc;
         border-radius: 5px;
         padding: 10px;
